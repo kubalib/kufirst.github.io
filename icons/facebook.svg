@@ -1,0 +1,22 @@
+<svg width="53.000000" height="52.000000" viewBox="0 0 53 52" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1_20">
+			<rect id="facebook" width="25.000000" height="25.000000" transform="translate(14.000000 13.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip1_18">
+			<rect id="1" width="53.000000" height="52.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="1" width="53.000000" height="52.000000" fill="#000000" fill-opacity="0"/>
+	<g clip-path="url(#clip1_18)">
+		<path id="Круг" d="M25.99 1C39.8 1 51 12.19 51 25.99C51 39.8 39.8 51 25.99 51C12.19 51 1 39.8 1 25.99C1 12.19 12.19 1 25.99 1Z" fill="#000000" fill-opacity="0" fill-rule="evenodd"/>
+		<path id="Круг" d="M51 25.99C51 12.19 39.8 1 25.99 1C12.19 1 1 12.19 1 25.99C1 39.8 12.19 51 25.99 51C39.8 51 51 39.8 51 25.99ZM47.31 17.17Q49 21.23 49 25.99Q49 30.76 47.31 34.82Q45.63 38.89 42.26 42.26Q38.89 45.63 34.82 47.31Q30.76 49 25.99 49Q21.23 49 17.17 47.31Q13.1 45.63 9.73 42.26Q6.36 38.89 4.68 34.82Q3 30.76 3 25.99Q3 21.23 4.68 17.17Q6.36 13.1 9.73 9.73Q13.1 6.36 17.17 4.68Q21.23 3 25.99 3Q30.76 3 34.82 4.68Q38.89 6.36 42.26 9.73Q45.63 13.1 47.31 17.17Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<rect id="facebook" width="25.000000" height="25.000000" transform="translate(14.000000 13.000000)" fill="#FFFFFF" fill-opacity="0"/>
+		<g clip-path="url(#clip1_20)">
+			<path id="Vector" d="M30.66 17.15L32.94 17.15L32.94 13.17C32.55 13.12 31.19 13 29.62 13C26.33 13 24.07 15.06 24.07 18.87L24.07 22.37L20.44 22.37L20.44 26.81L24.07 26.81L24.07 38L28.52 38L28.52 26.81L32.01 26.81L32.56 22.37L28.52 22.37L28.52 19.31C28.52 18.03 28.87 17.15 30.66 17.15Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+	</g>
+</svg>
